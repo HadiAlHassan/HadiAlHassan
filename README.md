@@ -1,6 +1,5 @@
-- 👋 Im a second Year Computer Science at the Lebanese American University.
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML.
+- 👋 Im a Third Year Computer Science at the Lebanese American University.
+
 - You can reach me at my personal email: HadiWalhassan2@gmail.com
 
 <!---
